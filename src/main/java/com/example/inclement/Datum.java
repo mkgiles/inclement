@@ -2,7 +2,7 @@ package com.example.inclement;
 
 import jakarta.persistence.*;
 
-import java.sql.Date;
+import java.util.Date;
 
 enum Type {
     TEMPERATURE, HUMIDITY
